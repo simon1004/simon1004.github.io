@@ -1,7 +1,8 @@
 ---
-title: Highlight Test
+title: NLP之标注系统
+description: 文本标注是自然语言处理模型进行训练很重要的一个过程节点，总结一下在标注系统上的一些设计和理解。
 categories:
- - Test
+ - 人工智能（NLP）
 tags:
 ---
 
