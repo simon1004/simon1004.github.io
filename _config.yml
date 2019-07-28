@@ -599,6 +599,11 @@ local_search:
 # Alias: {% extlink text url "title" %}
 exturl: false
 
+reward:
+  enable: true
+  #打赏功能
+  comment: 原创经验分享，觉得有帮助可以支持一下
+  wechatpay: assets\images\zanshang.jpg
 
 #! ---------------------------------------------------------------
 #! DO NOT EDIT THE FOLLOWING SETTINGS
