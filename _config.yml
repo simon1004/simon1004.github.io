@@ -378,11 +378,11 @@ baidu_analytics: 5bc00d8570d36ae860e7c70b5b1a5cf3
 # Duoshuo ShortName
 #duoshuo_shortname:
 
-# Disqus
+# DISQUS
 disqus:
-  enable: true
+  enable: false
   shortname:
-  count: true
+  count: false
   # hide comments (visitors need to click to load the comments)
   # count need to be false when hide is true
   hide: false
