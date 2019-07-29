@@ -382,7 +382,7 @@ baidu_analytics: 5bc00d8570d36ae860e7c70b5b1a5cf3
 disqus:
   enable: false
   shortname:
-  count: false
+  count: true
   # hide comments (visitors need to click to load the comments)
   # count need to be false when hide is true
   hide: false
@@ -524,9 +524,9 @@ rating:
 # Show number of visitors to each article.
 # You can visit https://leancloud.cn get AppID and AppKey.
 leancloud_visitors:
-  enable: false
-  app_id: #<app_id>
-  app_key: #<app_key>
+  enable: true
+  app_id: f3fpw3Iuq8RjjwckrHjh6mA8-gzGzoHsz
+  app_key: vXq0tb5Sr3t5NC7Pva29aJ6D
 
 # Show PV/UV of the website/page with busuanzi.
 # Get more information on http://ibruce.info/2015/04/04/busuanzi/
